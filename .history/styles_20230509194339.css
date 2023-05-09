@@ -1,0 +1,9 @@
+*
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    background: goldenrod;
+    padding: 0 20px;
+}
+
